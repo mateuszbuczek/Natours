@@ -1,8 +1,7 @@
 Technologies used:
-```
-    - HTML
+```     - HTML
     - CSS (SCSS)
-    - JS
-```
+    
+```     - JS
 
 page fully designed by Jonas Schmedtmann. 
