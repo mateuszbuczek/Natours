@@ -1,6 +1,8 @@
-Technologies used:
-    - HTML
+https://mateuszbuczek.github.io/natours/
+
     - CSS (SCSS)
     - JS
 
-page fully designed by Jonas Schmedtmann. 
+![](natours.gif)
+
+page fully designed by Jonas Schmedtmann.
