@@ -1,7 +1,7 @@
 https://mateuszbuczek.github.io/natours/
 
-    - CSS (SCSS)
-    - JS
+* CSS (SCSS)
+* JS
 
 ![](natours.gif)
 
